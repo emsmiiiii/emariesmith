@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emma Smith
 - 👀 I’m interested in starting projects to learn programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning HTML/CSS.
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me emsmith1800@gmail.com
 
