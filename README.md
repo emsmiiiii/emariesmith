@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emma Smith
-- 👀 I’m interested in starting projects to learn programming.
-- 🌱 I’m currently learning HTML/CSS.
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning JAVASCRIPT and PHP.
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me emsmith1800@gmail.com
 
