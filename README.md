@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emma Smith
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning JAVASCRIPT and PHP.
-- 💞️ I’m looking to collaborate on anything and everything.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HTML and CSS.
+- 💞️ I’m looking to learn from others.
 - 📫 How to reach me emsmith1800@gmail.com
 
 <!---
