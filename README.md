@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emma Smith
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML and CSS.
+- 👀 I’m interested in random stuff.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to learn from others.
 - 📫 How to reach me emsmith1800@gmail.com
 
