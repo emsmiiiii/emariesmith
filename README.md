@@ -1,4 +1,4 @@
-- 👋 Hi, I’m emariesmith.
+- 👋 Hi, I’m Emma.
 - 👀 I’m interested in random stuff.
 - 🌱 I’m currently learning swift.
 - 💞️ I’m looking to learn from others.
